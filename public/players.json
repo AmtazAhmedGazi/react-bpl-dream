@@ -1,0 +1,122 @@
+[
+  {
+    "player_image": "https://i.ibb.co.com/SkGyx7H/shakib.webp",
+    "player_name": "Shakib Al Hasan",
+    "player_country": "Bangladesh",
+    "playing_role": "All-Rounder",
+    "rating": 9.8,
+    "batting_style": "Left-hand Bat",
+    "bowling_style": "Left-arm Orthodox Spin",
+    "price": "1200000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/5ZwWwSg/tamim.jpg",
+    "player_name": "Tamim Iqbal",
+    "player_country": "Bangladesh",
+    "playing_role": "Batsman",
+    "rating": 8.7,
+    "batting_style": "Left-hand Bat",
+    "bowling_style": "Right-arm Offbreak",
+    "price": "950000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/5ZwWwSg/tamim.jpg",
+    "player_name": "Mashrafe Mortaza",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "rating": 8.5,
+    "batting_style": "Right-hand Bat",
+    "bowling_style": "Right-arm Medium Fast",
+    "price": "800000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/5ZwWwSg/tamim.jpg",
+    "player_name": "Mustafizur Rahman",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "rating": 9.1,
+    "batting_style": "Left-hand Bat",
+    "bowling_style": "Left-arm Fast",
+    "price": "1100000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/5ZwWwSg/tamim.jpg",
+    "player_name": "Litton Das",
+    "player_country": "Bangladesh",
+    "playing_role": "Wicket-Keeper Batsman",
+    "rating": 8.8,
+    "batting_style": "Right-hand Bat",
+    "bowling_style": "None",
+    "price": "900000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/5ZwWwSg/tamim.jpg",
+    "player_name": "Rahmanullah Gurbaz",
+    "player_country": "Afghanistan",
+    "playing_role": "Wicket-Keeper Batsman",
+    "rating": 8.9,
+    "batting_style": "Right-hand Bat",
+    "bowling_style": "None",
+    "price": "1000000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/5ZwWwSg/tamim.jpg",
+    "player_name": "Andre Russell",
+    "player_country": "West Indies",
+    "playing_role": "All-Rounder",
+    "rating": 9.6,
+    "batting_style": "Right-hand Bat",
+    "bowling_style": "Right-arm Fast",
+    "price": "1500000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/5ZwWwSg/tamim.jpg",
+    "player_name": "Shaheen Shah Afridi",
+    "player_country": "Pakistan",
+    "playing_role": "Bowler",
+    "rating": 9.4,
+    "batting_style": "Left-hand Bat",
+    "bowling_style": "Left-arm Fast",
+    "price": "1400000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/5ZwWwSg/tamim.jpg",
+    "player_name": "Glenn Maxwell",
+    "player_country": "Australia",
+    "playing_role": "All-Rounder",
+    "rating": 9.0,
+    "batting_style": "Right-hand Bat",
+    "bowling_style": "Right-arm Offbreak",
+    "price": "1300000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/5ZwWwSg/tamim.jpg",
+    "player_name": "David Miller",
+    "player_country": "South Africa",
+    "playing_role": "Batsman",
+    "rating": 8.9,
+    "batting_style": "Left-hand Bat",
+    "bowling_style": "Right-arm Offbreak",
+    "price": "1250000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/5ZwWwSg/tamim.jpg",
+    "player_name": "Sunil Narine",
+    "player_country": "West Indies",
+    "playing_role": "All-Rounder",
+    "rating": 9.2,
+    "batting_style": "Left-hand Bat",
+    "bowling_style": "Right-arm Offbreak",
+    "price": "1450000"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/5ZwWwSg/tamim.jpg",
+    "player_name": "Taskin Ahmed",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "rating": 8.6,
+    "batting_style": "Right-hand Bat",
+    "bowling_style": "Right-arm Fast",
+    "price": "850000"
+  }
+]
