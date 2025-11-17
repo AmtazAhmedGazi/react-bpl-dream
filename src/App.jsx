@@ -28,7 +28,7 @@ function App() {
     );
   };
   return (
-    <>
+    <div className="max-w-[1200px] mx-auto">
       <Navbar availableBalance={availableBalance}></Navbar>
       <div className="max-w-[1200px] mx-auto flex justify-between items-center">
         <h1 className="font-bold text-2xl">
@@ -58,7 +58,9 @@ function App() {
       {toggle === true ? (
         <Suspense
           fallback={
-            <span className="loading loading-spinner loading-xl"></span>
+            <div className="flex justify-center items-center h-[300px]">
+              <span className="loading loading-spinner loading-4xl"></span>
+            </div>
           }
         >
           <AvailablePlayers
@@ -78,7 +80,7 @@ function App() {
       {!toggle ? (
         <button
           onClick={() => setToggle(true)}
-          className="btn bg-[#E7FE29] mt-10 font-semibold"
+          className="btn bg-[#E7FE29] mt-10 font-semibold "
         >
           Add More Player
         </button>
@@ -86,7 +88,7 @@ function App() {
         ""
       )}
       <ToastContainer />
-    </>
+    </div>
   );
 }
 
